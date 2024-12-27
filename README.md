@@ -1,5 +1,5 @@
 # Sales Analysis Project
-https://github.com/MohamedWanas02/SalesAnalysis/blob/b961ba0bfca330127788c99ed9605377214fb7a1/Videos/SalesAnalysis%20.mp4
+![Screenshot (303)](https://github.com/user-attachments/assets/93d7edb6-1d83-4435-9ed1-b5b6568439f4)
 
 ## Overview
 This project focuses on the analysis of sales data using various tools and techniques. The primary goals are to clean the data, explore it for meaningful insights, and create visualizations to effectively communicate these insights.
