@@ -1,8 +1,9 @@
 # Sales Analysis Project
 
+![Screenshot (303)](https://github.com/user-attachments/assets/93d7edb6-1d83-4435-9ed1-b5b6568439f4)
+
 ## Overview
 This project focuses on the analysis of sales data using various tools and techniques. The primary goals are to clean the data, explore it for meaningful insights, and create visualizations to effectively communicate these insights.
-![Screenshot (303)](https://github.com/user-attachments/assets/93d7edb6-1d83-4435-9ed1-b5b6568439f4)
 
 ## Tools and Technologies
 - **SQL**: Used for data cleaning and initial exploration.
