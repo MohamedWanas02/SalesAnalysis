@@ -29,4 +29,4 @@ This project provides a comprehensive analysis of sales data, utilizing SQL, Pyt
 Feel free to fork this repository, open an issue, or submit a pull request with improvements or suggestions.
 
 ## Contact
-For questions or feedback, please contact at [mewanas81@gmail.com].
+For questions or feedback, please contact at mewanas81@gmail.com.
